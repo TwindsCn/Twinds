@@ -1,0 +1,47 @@
+body {
+	font-size:100%;
+	background-image: url("https://s1.ax1x.com/2022/03/12/bH93on.jpg");
+	background-repeat:no-repeat ;
+	background-size:100% 100%; 
+	background-attachment:fixed;
+	background-size:cover;
+}
+
+
+div{
+	text-align:center;
+	color:#ffffff;
+	position:relative;
+	top:11rem;
+}
+
+h1{
+	font-family: "Arial","Microsoft YaHei","黑体","宋体",sans-serif;
+	letter-spacing: 0.2rem;
+	font-size:2.1rem;
+
+}
+span {
+	
+    letter-spacing: 0.2rem;
+    font-size: 0.9rem;
+    line-height: 2;
+}
+.footer {
+    position: absolute;
+    bottom: 0.1%;
+    text-align: center;
+    width: 99%;
+	color:#eeeeee
+}
+#copyright {
+	
+	letter-spacing: 0.2rem;
+	font-size: 0.25rem;
+	opacity: 0.75;
+	}
+
+
+
+
+
